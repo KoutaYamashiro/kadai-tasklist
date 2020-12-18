@@ -8,13 +8,13 @@
     <body>
         <div id="wrapper">
             <div id="header">
-                <h1>タスクマネジメント アプリケーション</h1>
+                <h1>タスク アプリケーション</h1>
             </div>
             <div id="content">
                 ${param.content}
             </div>
             <div id="footer">
-                by Taro Kirameki.
+                by Kirameki.
             </div>
         </div>
     </body>
